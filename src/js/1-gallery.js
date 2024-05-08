@@ -1,0 +1,1 @@
+export const taskGallery = "1-gallery"
