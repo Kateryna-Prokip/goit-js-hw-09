@@ -1,0 +1,1 @@
+{"version":3,"file":"commonHelpers3.js","sources":["../src/js/1-gallery.js","../src/main.js"],"sourcesContent":["export const taskGallery = \"1-gallery\"","import {taskGallery } from \"./js/1-gallery\";\n\nconsole.log(\"Hello\");\nconsole.log(taskGallery);"],"names":["taskGallery"],"mappings":"ssBAAO,MAAMA,EAAc,YCE3B,QAAQ,IAAI,OAAO,EACnB,QAAQ,IAAIA,CAAW"}
