@@ -1,0 +1,1 @@
+img{display:flex;width:360px;height:auto;transition:transform .3s ease}.back-btn{text-decoration:none;font-weight:300;font-family:Montserrat,sans-serif}.gallery{display:flex;flex-wrap:wrap;flex-direction:row;gap:24px;width:1128px;margin:0 auto;justify-content:center;align-items:center}img:hover{transform:scale(1.05)}
