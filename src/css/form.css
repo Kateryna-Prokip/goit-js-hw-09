@@ -1,22 +1,15 @@
-section {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100vh;
-    margin: 0;
-}
-
 .feedback-form {
     display: flex;
     flex-direction: column;
     width: 408px;
-    padding: 24px;
+    padding: 58 px;
     row-gap: 8px;
 }
 
 .feedback-form label {
     display: flex;
     flex-direction: column;
+    color: #2e2f42;
     row-gap: 8px;
     font-family: "Montserrat", sans-serif;
     font-weight: 400;
@@ -24,6 +17,8 @@ section {
     line-height: 24px;
     letter-spacing: 0.04px;
 }
+
+
 
 .feedback-form label input,
 .feedback-form label textarea {

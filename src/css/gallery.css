@@ -1,16 +1,16 @@
 img {
-    display: block;
+    display: flex;
     width: 360px;
     height: auto;
     transition: transform 0.3s ease;
 }
 
 
-/* .back-btn {
+.back-btn {
     text-decoration: none;
     font-weight: 300;
     font-family: 'Montserrat', sans-serif;
-} */
+}
 
 /* .gallery {
     list-style: none;
