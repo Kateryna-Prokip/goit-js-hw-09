@@ -1,9 +1,9 @@
 .feedback-form {
     display: flex;
-    /* flex-direction: column; */
+    flex-direction: column;
     width: 360px;
-    /* padding: 58 px;
-    row-gap: 8px; */
+    padding: 24 px;
+    row-gap: 8px;
     flex-wrap: wrap;
     flex-direction: row;
 }
